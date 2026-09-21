@@ -1,0 +1,11 @@
+CL-0002,Real Madrid Galactico,Adidas,910.0
+CL-0003,Manchester City Elite,Puma,880.0
+CL-0004,Bayern Munich Prime,Adidas,860.0
+CL-0005,Liverpool FC,Nike,740.0
+CL-0006,Paris Saint-Germain,Nike,890.0
+CL-0007,Juventus FC,Adidas,700.0
+CL-0008,AS Roma FC,Adidas,720.0
+CL-0009,AC Milan,Puma,610.0
+CL-0010,AC Milan Sportline,Puma,630.0
+CL-0012,Chelsea FC X Line,Nike,780.0
+CL-0013,Cong An TPHCM,Nike,50.0
