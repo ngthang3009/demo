@@ -32,7 +32,7 @@ public class menuu {
         int choice;
         do {
             printMainMenu();
-            choice = Inputer.inputInt("Your choice (0-16): ", 0, 16);
+            choice = Inputer.inputInt("Your choice (0 - 16): ", 0, 16);
             
             switch (choice) {
                 case 1:
